@@ -1,0 +1,79 @@
+@font-face {
+    font-family: Kalameh;
+    font-style: normal;
+    font-weight: 600;
+    src: url(eot/Kalameh_Bold.eot?);
+    src: url(eot/Kalameh_Bold.eot?#iefix) format("embedded-opentype"), url(woff2/Kalameh_Bold.woff2) format("woff2"), url(woff/Kalameh_Bold.woff) format("woff"), url(ttf/IRANSans_FaNum_Bold.ttf) format("truetype")
+}
+
+@font-face {
+    font-family: Kalameh;
+    font-style: normal;
+    font-weight: 500;
+    src: url(eot/Kalameh_Medium.eot?);
+    src: url(eot/Kalameh_Medium.eot?#iefix) format("embedded-opentype"), url(woff2/Kalameh_Medium.woff2) format("woff2"), url(woff/Kalameh_Medium.woff) format("woff"), url(ttf/Kalameh_Medium.ttf) format("truetype")
+}
+
+@font-face {
+    font-family: Kalameh;
+    font-style: normal;
+    font-weight: 400;
+    src: url(eot/Kalameh_Regular.eot?);
+    src: url(eot/Kalameh_Regular.eot?#iefix) format("embedded-opentype"), url(woff2/Kalameh_Regular.woff2) format("woff2"), url(woff/Kalameh_Regular.woff) format("woff"), url(ttf/Kalameh_Regular.ttf) format("truetype")
+}
+
+@font-face {
+    font-family: Kalameh;
+    font-style: normal;
+    font-weight: 300;
+    src: url(eot/Kalameh_Light.eot?);
+    src: url(eot/Kalameh_Light.eot?#iefix) format("embedded-opentype"), url(woff2/Kalameh_Light.woff2) format("woff2"), url(woff/Kalameh_Light.woff) format("woff"), url(ttf/Kalameh_Light.ttf) format("truetype")
+}
+
+@font-face {
+    font-family: Kalameh;
+    font-style: normal;
+    font-weight: 200;
+    src: url(eot/Kalameh_ExtraLight.eot?);
+    src: url(eot/Kalameh_ExtraLight.eot?#iefix) format("embedded-opentype"), url(woff2/Kalameh_ExtraLight.woff2) format("woff2"), url(woff/Kalameh_ExtraLight.woff) format("woff"), url(ttf/Kalameh_ExtraLight.ttf) format("truetype")
+}
+
+@font-face {
+    font-family: IRANSans;
+    font-style: normal;
+    font-weight: 600;
+    src: url(eot/Kalameh_Bold.eot?);
+    src: url(eot/Kalameh_Bold.eot?#iefix) format("embedded-opentype"), url(woff2/Kalameh_Bold.woff2) format("woff2"), url(woff/Kalameh_Bold.woff) format("woff"), url(ttf/Kalameh_Bold.ttf) format("truetype")
+}
+
+@font-face {
+    font-family: IRANSans;
+    font-style: normal;
+    font-weight: 500;
+    src: url(eot/Kalameh_Medium.eot?);
+    src: url(eot/Kalameh_Medium.eot?#iefix) format("embedded-opentype"), url(woff2/Kalameh_Medium.woff2) format("woff2"), url(woff/Kalameh_Medium.woff) format("woff"), url(ttf/Kalameh_Medium.ttf) format("truetype")
+}
+
+@font-face {
+    font-family: IRANSans;
+    font-style: normal;
+    font-weight: 300;
+    src: url(eot/Kalameh_Light.eot?);
+    src: url(eot/Kalameh_Light.eot?#iefix) format("embedded-opentype"), url(woff2/Kalameh_Light.woff2) format("woff2"), url(woff/Kalameh_Light.woff) format("woff"), url(ttf/Kalameh_Light.ttf) format("truetype")
+}
+
+@font-face {
+    font-family: IRANSans;
+    font-style: normal;
+    font-weight: 200;
+    src: url(eot/Kalameh_ExtraLight.eot?);
+    src: url(eot/Kalameh_ExtraLight.eot?#iefix) format("embedded-opentype"), url(woff2/Kalameh_ExtraLight.woff2) format("woff2"), url(woff/Kalameh_ExtraLight.woff) format("woff"), url(ttf/Kalameh_ExtraLight.ttf) format("truetype")
+}
+
+@font-face {
+    font-family: IRANSans;
+    font-style: normal;
+    font-weight: 400;
+    src: url(eot/Kalameh_Regular.eot?);
+    src: url(eot/Kalameh_Regular.eot?#iefix) format("embedded-opentype"), url(woff2/Kalameh_Regular.woff2) format("woff2"), url(woff/Kalameh_Regular.woff) format("woff"), url(ttf/Kalameh_Regular.ttf) format("truetype")
+}
